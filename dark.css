@@ -1,0 +1,23 @@
+body.dark {
+  background-color: #121212;
+  color: #eaeaea;
+}
+
+body.dark header,
+body.dark footer {
+  background: #0b3d2e;
+}
+
+body.dark .card {
+  background: #1e1e1e;
+  border-left-color: #4db6ac;
+}
+
+body.dark a {
+  color: #4db6ac;
+}
+
+body.dark .btn {
+  background: #1e1e1e;
+  color: #4db6ac;
+}

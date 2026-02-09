@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #f4f6f8;
+  color: #1a1a1a;
+}
+
+header {
+  background: linear-gradient(120deg, #0b3d2e, #0f4c81);
+  color: white;
+  padding: 50px;
+  text-align: center;
+}
+
+.header-actions {
+  margin-top: 20px;
+}
+
+.btn {
+  background: white;
+  color: #0f4c81;
+  padding: 10px 16px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+#darkToggle {
+  padding: 10px 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+h1, h2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+section {
+  padding: 40px 80px;
+}
+
+ul {
+  list-style: square;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-top: 20px;
+  border-left: 5px solid #0f4c81;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.project-card img {
+  width: 100%;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.project-card span {
+  font-size: 0.85rem;
+  color: #0f4c81;
+}
+
+.publication-card {
+  border-left-color: #0b3d2e;
+}
+
+a {
+  color: #0f4c81;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  background: #0b3d2e;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
