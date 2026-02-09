@@ -157,6 +157,28 @@ header p {
   text-decoration: none;
 }
 
+/* ========== HONORS & FELLOWSHIPS ========== */
+
+.honor-card {
+  max-width: 900px;
+  background: #ffffff;
+  padding: 25px;
+  border-left: 5px solid #f4b400;
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+.honor-card h3 {
+  margin-top: 0;
+  color: #0b3d2e;
+}
+
+.honor-meta {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 10px;
+}
+
 /* ========== PUBLICATIONS ========== */
 
 .publication-grid {
@@ -259,4 +281,5 @@ footer a {
     height: 360px;
   }
 }
+
 
