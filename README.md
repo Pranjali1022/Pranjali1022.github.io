@@ -17,7 +17,7 @@ I have a strong interest in utilizing data to address challenges, employing pred
 - GitHub Pages
 
 ## 🚀 Live Website
-https://PranjaliPatil.github.io
+https://pranjali1022.github.io
 
 ## 📬 Contact
 - LinkedIn: https://www.linkedin.com/in/pranjali-p-a09b231b6
