@@ -123,7 +123,7 @@ header p {
 
 .flip-front h3 {
   margin-top: 15px;
-  font-size: 1.05rem;
+  font-size: 1.45rem;
 }
 
 /* Back side */
@@ -144,7 +144,7 @@ header p {
 
 .tech {
   margin-top: 12px;
-  font-size: 0.8rem;
+  font-size: 1.0rem;
   opacity: 0.9;
 }
 
@@ -281,5 +281,6 @@ footer a {
     height: 360px;
   }
 }
+
 
 
