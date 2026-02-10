@@ -76,7 +76,7 @@ header p {
 .flip-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 35px;
+  gap: 40px;
   margin-top: 30px;
 }
 
@@ -123,7 +123,7 @@ header p {
 
 .flip-front h3 {
   margin-top: 15px;
-  font-size: 1.45rem;
+  font-size: 1.25rem;
 }
 
 /* Back side */
@@ -281,6 +281,7 @@ footer a {
     height: 360px;
   }
 }
+
 
 
 
